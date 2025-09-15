@@ -4,8 +4,9 @@
 
 -----------
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
+<p align="center">
+  <img src="https://iili.io/Fv7BCkQ.jpg" height="90" width="100%">
+</p>
 -----------
 
 ![Image](https://github.com/user-attachments/assets/c9f274a2-09d5-465b-a7cb-59d287c193e6)
