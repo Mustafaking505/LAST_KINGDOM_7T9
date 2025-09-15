@@ -28,24 +28,21 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=LAST-KINGDOM-MD%F0%9F%92%96;+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+MUSTAFA+KING+%F0%9F%91%91;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
-
 <div align="center">
-  <a href="https://github.com/DARKSILENCE04/followers"><img title="Followers" src="https://img.shields.io/github/followers/DARKSILENCE04?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DARKSILENCE04/DARK-SILENCE-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DARKSILENCE04/DARK-SILENCE-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/DARKSILENCE04/DARK-SILENCE-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-SILENTLOVER-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/MUSTAFA-KING/LAST-KINGDOM-MD/followers"><img title="Followers" src="https://img.shields.io/github/followers/MUSTAFA-KING?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/MUSTAFA-KING/LAST-KINGDOM-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MUSTAFA-KING/LAST-KINGDOM-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/MUSTAFA-KING/LAST-KINGDOM-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MUSTAFA-KING/LAST-KINGDOM-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/MUSTAFA-KING/LAST-KINGDOM-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/MUSTAFA-KING/LAST-KINGDOM-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/MUSTAFA-KING/LAST-KINGDOM-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-MUSTAFA-KING-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DARK-SILENCE-MD&label=VISITORS&style=flat-square&color=0002FF" />
+  <img src="https://komarev.com/ghpvc/?username=LAST-KINGDOM-MD&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
 ---------
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+DARK-SILENCE-MD;IS+THE+UPDATE+VERSION;OF+SILENT-SOBX-MD;BEST+MULTI+DEVICE+BOT;CREATED+BY+SILENTLOVER+432" alt="Typing SVG" /></a>
-  </p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+LAST-KINGDOM-MD❤️;IS+THE+UPDATE+VERSION;OF+LAST-KINGDOM-MD;BEST+MULTI+DEVICE+BOT;CREATED+BY+MUSTAFA+KING+%F0%9F%91%91" alt="Typing SVG" /></a>
 
 
 ----
