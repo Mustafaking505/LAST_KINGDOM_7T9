@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://iili.io/YourGIFLink.gif" alt="LAST-KINGDOM-7T9 Rainbow Text" />
+<b>
+<font color="#FF0000">𝐋</font><font color="#FF7F00">𝐀</font><font color="#FFFF00">𝐒</font><font color="#00FF00">𝐓</font> 
+<font color="#0000FF">𝐊</font><font color="#4B0082">𝐈</font><font color="#8B00FF">𝐍</font><font color="#FF0000">𝐆</font><font color="#FF7F00">𝐃</font><font color="#FFFF00">𝐎</font><font color="#00FF00">𝐌</font> 
+<font color="#0000FF">𝟕</font><font color="#4B0082">𝐓</font><font color="#8B00FF">𝟗</font>
+</b>
 </p>
 ----------
 
