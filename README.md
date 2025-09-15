@@ -29,7 +29,6 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=LAST-KINGDOM-MD❤️;+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+MUSTAFA+KING+👑;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
-
 <div align="center">
   <a href="https://github.com/DARKSILENCE04/followers"><img title="Followers" src="https://img.shields.io/github/followers/DARKSILENCE04?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DARKSILENCE04/DARK-SILENCE-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
