@@ -4,13 +4,10 @@
 
 -----------
 
+
 <p align="center">
-  <img src="https://iili.io/Fv7BCkQ.jpg" height="90" width="100%">
+  <img src="https://iili.io/Fv7BCkQ.jpg" width="100%">
 </p>
------------
-
-![Image](https://iili.io/Fv7BCkQ.jpg)
-
 -----------
 -----------
 
