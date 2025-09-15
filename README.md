@@ -52,7 +52,6 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 
 ----
 
-![Image](https://github.com/user-attachments/assets/d406a295-1b68-407a-9d0d-7c55b4be8d7d)
 
 ----
 
