@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://iili.io/Fv7BCkQ.jpg" width="100%">
+  <img src="https://iili.io/KAlGRB1.png" width="100%">
 </p>
 -----------
 -----------
