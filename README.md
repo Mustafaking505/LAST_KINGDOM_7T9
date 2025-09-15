@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=60&pause=1000&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8B00FF&center=true&vCenter=true&width=800&height=100&lines=𝐋𝐀𝐒𝐓+𝐊𝐈𝐍𝐆𝐃𝐎𝐌+𝟕𝐓𝟗" alt="LAST-KINGDOM-7T9 Rainbow Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8B00FF&center=true&vCenter=true&width=800&height=100&lines=LAST-KINGDOM-MD❤️;CREATED+BY+MUSTAFA+KING+👑" alt="LAST-KINGDOM-MD Rainbow Typing" />
 </p>
 
 
