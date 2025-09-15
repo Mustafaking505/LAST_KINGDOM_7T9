@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://iili.io/YourGIFLink.gif" alt="LAST-KINGDOM-7T9 Rainbow Text" />
 </p>
-
-
 ----------
 
 **♦️𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐋𝐀𝐒𝐓 𝐊𝐈𝐍𝐆𝐃𝐎𝐌 𝟕𝐓𝟗 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐓𝐇𝐈𝐒 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐓𝐎 𝐔𝐒𝐄 𝐁𝐀𝐈𝐋𝐘𝐒,𝐓𝐇𝐈𝐒 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐈𝐒 𝐍𝐎𝐖 𝐀𝐋𝐋𝐎𝐖𝐄𝐃 𝐓𝐎 𝐔𝐒𝐄 𝐖𝐈𝐓𝐇𝐎𝐔𝐓 𝐀𝐍𝐘 𝐁𝐔𝐆♦️**
