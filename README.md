@@ -56,7 +56,14 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 
 ----
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<p align="center">
+  <img src="https://iili.io/Fv7CnFs.jpg" width="100%">
+</p>
+
+<!-- Niche Animated Line -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
+</p>
 
 ----------
 
