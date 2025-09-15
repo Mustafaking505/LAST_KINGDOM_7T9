@@ -26,7 +26,7 @@
 **`USE THIS LINK 🔗 FOR OTHER 🍽️ PLATFORMS TO DEPLOY LAST-KINGDOM-MD 🩶`**
 
 ```
-https://github.com/DARKSILENCE04/DARK-SILENCE-MD
+https://github.com/LAST-KINGDOM-7T9/ALADDIN-MD
 ```
 -------
 
